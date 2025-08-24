@@ -26,7 +26,7 @@ Sharp Objects,47.82,4
 A Light in the Attic,51.77,3
 
 ▶️ Usage
-git clone https://github.com/your-username/books-to-csv.git
-cd books-to-csv
+git clone https://github.com/alperencbn05/booktocsv.git
+cd booktocsv
 pip install -r requirements.txt
 python main.py
